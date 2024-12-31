@@ -1,6 +1,6 @@
 # Optical Link Simulation: Step-by-Step Development
 # Project Goal: Simulate optical communication links from ground to space considering atmospheric turbulence
-# Author: <Your Name>
+# Author: Matin Hajnorouzi
 # Usage: Part of MSCA PhD application showcase
 import matplotlib
 matplotlib.use('TkAgg')  # تنظیم backend برای استفاده از tkinter
