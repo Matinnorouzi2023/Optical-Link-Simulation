@@ -87,7 +87,7 @@ A sample 3D plot showing the BER changes across distances and wavelengths. The r
 
 ---
 
-![System Simulation Output](images/Screenshot%202024-12-31%20202014.png)
+![System Simulation Output](https://github.com/Matinnorouzi2023/Optical-Link-Simulation/blob/master/Screenshot%202024-12-31%20202014.png)
 
 https://github.com/Matinnorouzi2023/Optical-Link-Simulation/blob/master/Screenshot%202024-12-31%20202014.png
 ## Future Improvements
