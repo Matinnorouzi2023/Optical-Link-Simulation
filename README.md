@@ -1,4 +1,4 @@
-# Optical-Link-Simulation
+
 # Optical Link Simulation
 
 ## Overview
